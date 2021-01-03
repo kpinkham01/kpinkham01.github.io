@@ -1,0 +1,7 @@
+.jumbotron {
+    background: url("../portfolio/assets/pexels-photo-4623061.jpg");
+    background-size: cover;
+    height: 50vh;
+    color: black;
+    margin: 0;
+}
